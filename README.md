@@ -26,4 +26,26 @@
 ## Início: 
 Na aba início do site terá a apresentação do Mercado do campo, benefícios da utilização dela e como funciona. Também a um vídeo explicativo sobre a plataforma:
 
-<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/c3098d6b3680bf3b0ec066b61166489d308ca350/prints_agrinho/imagem%201.png">
+<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%202.png">
+
+# Produtos:
+Você pode mudar a aba de produtos apertando no botão “produtos”, lá você encontrara todos os produtos a serem vendidos no momento, com seus respectivos preços, quantidades e produtores, assim como suas fotos. Ao achar o produto desejado você pode apertar no botão de “entrar em contato” e ele direcionara para o Whatzapp do vendedor.
+
+<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%203.png">
+
+# Agricultores:
+Selecionando o botão “Agricultores” você poderá ver todos os vendedores que há no site, seus nomes, fotos e cidades (caso seja um local com cidades próximas ou fronteiras). Também há um botão “saiba mais” que ao# apertar você ver mais informações do vendedor em questão como: Localização em um mapa e escrita, telefone e e-mail.	
+
+<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%204.png">
+
+## agricultor :
+<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%205.png">
+
+# Sobre:
+Ao apertar no botão “Sobre” você vera mais informações dobre a criação do site,  sobre a história, nossa missão, equipe e oque fazemos.
+<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%206.png">
+
+# beservação:
+Vale lembrar que esta pagina é apenas <strong>a pagina visível para o cliente</strong>, onde ele pode acessar ofertas para entar em contato com vendedores e combinar a compra. 
+
+
