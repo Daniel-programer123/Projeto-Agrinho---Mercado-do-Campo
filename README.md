@@ -52,7 +52,7 @@
 
 # Sobre:
 
-< p align="justify">Ao apertar no botão “Sobre” você vera mais informações dobre a criação do site,  sobre a história, nossa missão, equipe e oque fazemos. </p>
+<p align="justify">Ao apertar no botão “Sobre” você vera mais informações dobre a criação do site,  sobre a história, nossa missão, equipe e oque fazemos. </p>
 
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%206.png">
 
