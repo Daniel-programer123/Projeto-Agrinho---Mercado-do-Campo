@@ -38,26 +38,26 @@
 
 <p align="justify">Você pode mudar a aba de produtos apertando no botão “produtos”, lá você encontrara todos os produtos a serem vendidos no momento, com seus respectivos preços, quantidades e produtores, assim como suas fotos. Ao achar o produto desejado você pode apertar no botão de “entrar em contato” e ele direcionara para o Whatzapp do vendedor.</p>
 
-<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%203.png">
+<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%203.png">
 
 # Agricultores:
 
 <p align="justify">Selecionando o botão “Agricultores” você poderá ver todos os vendedores que há no site, seus nomes, fotos e cidades (caso seja um local com cidades próximas ou fronteiras). Também há um botão “saiba mais” que ao apertar você ver mais informações do vendedor em questão como: Localização em um mapa e escrita, telefone e e-mail.</p>	
 
-<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%204.png">
+<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%204.png">
 
 ## agricultor :
 
-<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%205.png">
+<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%205.png">
 
 # Sobre:
 
 <p align="justify">Ao apertar no botão “Sobre” você vera mais informações dobre a criação do site,  sobre a história, nossa missão, equipe e oque fazemos. </p>
 
-<img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%206.png">
+<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%206.png">
 
 ## Obeservação:
 
-Vale lembrar que esta pagina é <strong>a parte visível para o cliente</strong> e não para o produtor, onde o consumidor ele pode acessar ofertas para entar em contato com vendedores e combinar a compra. 
+Vale lembrar que esta pagina é <strong>a parte visível para o cliente</strong> e não para o produtor, onde o consumidor pode acessar ofertas, entar em contato com os vendedores e combinar a compra. 
 
 
