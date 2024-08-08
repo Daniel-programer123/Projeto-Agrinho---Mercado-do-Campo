@@ -7,20 +7,23 @@
 
 <img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/c3098d6b3680bf3b0ec066b61166489d308ca350/prints_agrinho/imagem%201.png">
 
-Algumas vantagens da utilização da plataforma:
-Para o consumidor:
+# Algumas vantagens da utilização da plataforma:
+## Para o consumidor:
 
 - Não precisa depender de mercados que frequentemente não têm o que você procura ou oferecem produtos de qualidade inferior;
 - Passa a consumir produtos mais frescos e com menos agrotóxicos;
 - Pode pedir suas frutas e verduras de casa, caso combine para o vendedor entregar;
 - Tem um custo beneficio melhor pois o produto não é terceirizado como nos mercados (o que faz aumentarem seu preço);
-    Fortalece o comercio local, produtor-consumidor;
-Para o Produtor:
-    ## Aumenta e acelera as vendas, diminuindo o desperdício;
-    # Facilita o processo de venda, não precisa ficar oferendo seus produtos de pessoa para pessoa;
-    # Aumenta o reconhecimento do produtor podendo ter mais clientes fixos;
+- Fortalece o comercio local, produtor-consumidor;
+## Para o Produtor:
+- Aumenta e acelera as vendas, diminuindo o desperdício;
+- Facilita o processo de venda, não precisa ficar oferendo seus produtos de pessoa para pessoa;
+- Aumenta o reconhecimento do produtor podendo ter mais clientes fixos;
 
 
 
- Como utilizar a plataforma
-Início: Na aba início do site terá a apresentação do Mercado do campo, benefícios da utilização dela e como funciona. Também a um vídeo explicativo sobre a plataforma:
+ # Como utilizar a plataforma
+## Início: 
+Na aba início do site terá a apresentação do Mercado do campo, benefícios da utilização dela e como funciona. Também a um vídeo explicativo sobre a plataforma:
+
+<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/c3098d6b3680bf3b0ec066b61166489d308ca350/prints_agrinho/imagem%201.png">
