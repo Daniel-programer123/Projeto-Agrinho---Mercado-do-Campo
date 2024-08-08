@@ -45,7 +45,7 @@ Selecionando o botão “Agricultores” você poderá ver todos os vendedores q
 Ao apertar no botão “Sobre” você vera mais informações dobre a criação do site,  sobre a história, nossa missão, equipe e oque fazemos.
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%206.png">
 
-# beservação:
+## Obeservação:
 Vale lembrar que esta pagina é apenas <strong>a pagina visível para o cliente</strong>, onde ele pode acessar ofertas para entar em contato com vendedores e combinar a compra. 
 
 
