@@ -24,17 +24,17 @@
 
  # Como utilizar a plataforma
 ## Início: 
-Na aba início do site terá a apresentação do Mercado do campo, benefícios da utilização dela e como funciona. Também a um vídeo explicativo sobre a plataforma:
+<p align="justify">Na aba início do site terá a apresentação do Mercado do campo, benefícios da utilização dela e como funciona. Também a um vídeo explicativo sobre a plataforma:</p>
 
 <img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%202.png">
 
 # Produtos:
-Você pode mudar a aba de produtos apertando no botão “produtos”, lá você encontrara todos os produtos a serem vendidos no momento, com seus respectivos preços, quantidades e produtores, assim como suas fotos. Ao achar o produto desejado você pode apertar no botão de “entrar em contato” e ele direcionara para o Whatzapp do vendedor.
+<p align="justify">Você pode mudar a aba de produtos apertando no botão “produtos”, lá você encontrara todos os produtos a serem vendidos no momento, com seus respectivos preços, quantidades e produtores, assim como suas fotos. Ao achar o produto desejado você pode apertar no botão de “entrar em contato” e ele direcionara para o Whatzapp do vendedor.</p>
 
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%203.png">
 
 # Agricultores:
-Selecionando o botão “Agricultores” você poderá ver todos os vendedores que há no site, seus nomes, fotos e cidades (caso seja um local com cidades próximas ou fronteiras). Também há um botão “saiba mais” que ao# apertar você ver mais informações do vendedor em questão como: Localização em um mapa e escrita, telefone e e-mail.	
+<p align="justify">Selecionando o botão “Agricultores” você poderá ver todos os vendedores que há no site, seus nomes, fotos e cidades (caso seja um local com cidades próximas ou fronteiras). Também há um botão “saiba mais” que ao# apertar você ver mais informações do vendedor em questão como: Localização em um mapa e escrita, telefone e e-mail.</p>	
 
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%204.png">
 
@@ -42,7 +42,8 @@ Selecionando o botão “Agricultores” você poderá ver todos os vendedores q
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%205.png">
 
 # Sobre:
-Ao apertar no botão “Sobre” você vera mais informações dobre a criação do site,  sobre a história, nossa missão, equipe e oque fazemos.
+< p align="justify">Ao apertar no botão “Sobre” você vera mais informações dobre a criação do site,  sobre a história, nossa missão, equipe e oque fazemos. </p>
+
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%206.png">
 
 ## Obeservação:
