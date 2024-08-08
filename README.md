@@ -5,7 +5,7 @@
      Vale lembrar que o Mercado do campo não é uma plataforma de venda, mas sim uma pagina de contato entre as pessoas, como se fosse uma rede social. 
 
 
-<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/commit/ff00911d0070dc7ea0f0909d6a9a91c14aea991f">
+<img src="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/c3098d6b3680bf3b0ec066b61166489d308ca350/prints_agrinho/imagem%201.png">
 Algumas vantagens da utilização da plataforma:
 Para o consumidor:
     #Não precisa depender de mercados que frequentemente não têm o que você procura ou oferecem produtos de qualidade inferior;
