@@ -34,7 +34,7 @@
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%203.png">
 
 # Agricultores:
-<p align="justify">Selecionando o botão “Agricultores” você poderá ver todos os vendedores que há no site, seus nomes, fotos e cidades (caso seja um local com cidades próximas ou fronteiras). Também há um botão “saiba mais” que ao# apertar você ver mais informações do vendedor em questão como: Localização em um mapa e escrita, telefone e e-mail.</p>	
+<p align="justify">Selecionando o botão “Agricultores” você poderá ver todos os vendedores que há no site, seus nomes, fotos e cidades (caso seja um local com cidades próximas ou fronteiras). Também há um botão “saiba mais” que ao apertar você ver mais informações do vendedor em questão como: Localização em um mapa e escrita, telefone e e-mail.</p>	
 
 <img scr="https://github.com/Daniel-programer123/Projeto-Agrinho---Mercado-do-Campo/blob/159a2c3a5f6dc27e2f7289331a11b4b23597239e/prints_agrinho/imagem%204.png">
 
